@@ -1,0 +1,50 @@
+TODO:
+- search about the fowling npm =>
+- @sanity/client 
+- @sanity/image-url 
+- react-google-login 
+- react-loader-spinner 
+- react-masonry-css 
+- react-router-dom 
+- uuid
+- import { Routes, Route, useNavigate } from "react-router-dom";
+- import { BrowserRouter as Router } from "react-router-dom";
+
+
+
+
+
+
+
+
+
+
+
+
+- react-icons 
+React-icons is a small library that helps you add icons (from all different icon libraries) to your React apps
+React-icons uses ES6 features to import the icons into your React app.
+And it makes it so that only the icons you actually use from each library get imported.
+these are the different  icon libraries yiu can use on react-icons
+import { IconName } from "react-icons/ai"; //Ant Design Icons
+import { IconName } from "react-icons/bs"; //Bootstrap Icons
+import { IconName } from "react-icons/bi"; //Boxicons
+import { IconName } from "react-icons/di"; //Devicon Icons
+import { IconName } from "react-icons/fi"; //Feather 
+import { IconName } from "react-icons/fc"; //Flat Color Icons
+import { IconName } from "react-icons/fa"; //Font Awesome Icons
+import { IconName } from "react-icons/gi"; //Game Icons
+import { IconName } from "react-icons/go"; //Github Octicons Icons
+import { IconName } from "react-icons/gr"; //Grommet-Icons
+import { IconName } from "react-icons/hi"; //HeroIcons
+import { IconName } from "react-icons/im"; //IcoMoon Free
+import { IconName } from "react-icons/io"; //Ionicon4
+import { IconName } from "react-icons/io5"; //Ionicon5
+import { IconName } from "react-icons/md"; //Material Design Icons
+import { IconName } from "react-icons/ri"; //Remix Icons
+import { IconName } from "react-icons/si"; //Simple Icons
+import { IconName } from "react-icons/ti"; //Typicons
+import { IconName } from "react-icons/vsc"; //VS Code Icons
+import { IconName } from "react-icons/wi"; //Weather Icons
+import { IconName } from "react-icons/cg"; //css.gg
+TODO:link: https://react-icons.github.io/react-icons
